@@ -5,7 +5,7 @@
 #### Test versions of the program are closed access, only for developers and blogger's review.
 ##### Windows 7/8/8.1/10
 
-## 📗 Version - 9.2.7 - stable
+## 📗 Version - 9.2.8 - stable
 - Updating the database.
 - Added a section for bloggers.
 - Optimization.
